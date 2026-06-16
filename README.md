@@ -82,4 +82,4 @@ Conforme detalhado em nossa [documentação de métricas](./docs/04-metricas.md)
 * **Integridade:** Prioriza a explicação da mecânica financeira e a educação do usuário, mantendo-se fiel ao papel de consultor didático e mentor.
 
 ---
-**André Reis** | [GitHub: andrereis-ia](https://github.com/andrereistech)
+**André Reis** | [GitHub: andrereistech](https://github.com/andrereistech)
